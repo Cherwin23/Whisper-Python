@@ -8,4 +8,4 @@ Compared Speed and Accuracy of Transcription
 
 1. Short Speech (0:18)
 2. Short Speech with Heavy Background Noise (0:03)
-3. Long Speech (4:19)
+3. Long Speech with Background Music (4:19)
