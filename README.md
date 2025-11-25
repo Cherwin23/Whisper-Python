@@ -1,10 +1,11 @@
-## Comparison of Speech to Text Performance for OpenAI Whisper models in the [Python Package](https://pypi.org/project/openai-whisper/)
+## Comparison of Speech to Text Performance (Speed and Accuracy of Transcription) for:
 
-Compared the 4 English-Only Models: Tiny, Base, Small, Medium
+1. OpenAI Whisper models in the [Python Package](https://pypi.org/project/openai-whisper/) (free to use)
+  - Compared the 4 English-Only Models: Tiny, Base, Small, Medium
 
-Compared Speed and Accuracy of Transcription
+2. gpt-4o-mini-transcribe model deployed in Azure (requires api key)
 
-3 Test Audio Files:
+### Test Audio Files:
 
 1. Short Speech (0:18)
 2. Short Speech with Heavy Background Noise (0:03)
